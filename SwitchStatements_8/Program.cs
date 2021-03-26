@@ -6,6 +6,7 @@ namespace SwitchStatements_8
     {
         static void Main(string[] args)
         {
+            // switch statement 
             Console.WriteLine("What is your favorite subject?");
             var subject = Console.ReadLine().ToLower();
 
